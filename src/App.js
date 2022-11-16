@@ -8,9 +8,6 @@ import Home from "./pages/Home.jsx";
 /* Functionality for scrolling to the top of the page when routed */
 // import ScrollToTop from "./utils/ScrollToTop.jsx";
 
-// import logo from './logo.svg';
-// import './App.css';
-
 export default function App() {
   return (
     <Router>
